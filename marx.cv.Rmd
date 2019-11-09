@@ -1,0 +1,92 @@
+---
+title: "**Anton K. G. Marx**"
+author: "Curriculum Vitae (updated: 11/8/2019)"
+# date: "Updated: 11/8/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# PERSONAL INFORMATION
+Current Affiliation: University of Munich (LMU), Department of Psychology  
+Office Address: LMU Munich, Leopoldstraße 13, 80802 Munich, Germany  
+Email: anton.marx@psy.lmu.de // Web: www.psy.lmu.de/pls/people/marx  
+Tel: 0049 (0) 89 2180 9513 // Fax: 0049 (0) 89 2180 72508  
+OSF: osf.io/z7rfu/ // Github: github.com/mrxntn // Twitter: @mrxntn
+
+# EDUCATION
+
+### PhD, Psychology (ongoing), LMU Munich \hfill Since 2016  
+> Dissertation: *Advances in Research on Emotional Contagion* (working title)  
+
+> Supervisor: Prof. Dr. Anne C. Frenzel // Co-Supervisor: Prof. Dr. Corinna Reck  
+
+> Member of the Munich Center of the Learning Sciences (MCLS) Doctoral Training Program  
+
+### State Exam (equivalent to M.Sc.), School Psychology, LMU Munich \hfill 2009-2015  
+> Thesis: *The Relationship Between Achievement Motives and Frontal Alpha Asymmetry: An Exploratory EEG-Study* (Supervisor: PD Dr. Jörg Meinhardt)  
+
+> Grade/GPA: A/1.3 (with distinction)  
+
+# PROFESSIONAL EXPERIENCE
+
+### PhD Student and Research Associate \hfill Since 2016  
+> LMU Munich, Department of Psychology, Psychology in the Learning Sciences  
+
+> Project leader in the DFG funded research project "Emotional Contagion in the Classroom"  
+
+> Principal Investigators: Prof. Dr. Frenzel, Prof. Dr. Reck, and Prof. Dr. Pekrun
+
+### Student/Research Assistant \hfill 2013-2016  
+> LMU Munich, Department of Psychology, Chair of Developmental Psychology  
+
+> EEG- and Eye-Tracking-Lab (Principal Investigator: PD Dr. Jörg Meinhardt)  
+
+> Lab-Management and Project Coordination  
+
+# PUBLICATIONS
+
+## Journal Articles (Peer-Reviewed)
+Müller, B. C. N., Marx, A. K. G., Paulus, M., & Meinhardt, J. (2018). Frontal EEG Alpha Asymmetry Relates to Implicit Achievement Motives: A Pilot Study. *Mind, Brain and Education, 12, 2*, 82-89. doi: 10.1111/mbe.12175
+
+## Conference Contributions
+**Marx, A. K. G.**, Frenzel, A. C., Pekrun, R., Kosovac, K., Müller, M., & Reck, C. (2020, accepted). Examining enjoyment in the classroom using facial expression analysis. Poster submitted to the American Educational Research Association (AERA) annual conference, San Francisco, USA.  
+
+**Marx, A. K. G.**, Frenzel, A. C., Reck, C., Kosovac, K., Müller, M., & Pekrun, R. (2019, September). Teachers’ susceptibility to emotional contagion relates to their discrete emotions and emotional exhaustion. Paper presented at the Joint Conference of the DGPS-Sections Developmental Psychology and Educational Psychology (paEpsy), Leipzig, Germany.  
+
+**Marx, A. K. G.**, Frenzel, A. C., Pekrun, R., Kosovac, K., Müller, M., & Reck, C. (2019, September). Examining teachers’ and students’ enjoyment in class using automated facial emotion recognition. Paper submitted to the Joint Conference of the DGPS-Sections Developmental Psychology and Educational Psychology (paEpsy), Leipzig, Germany.  
+
+Kosovac, K., **Marx, A. K. G.**, Frenzel., A. C., Pekrun, R., Müller, M., & Reck, C. (2019, September). Self-reported attachment insecurity – Using the Vulnerable Attachment Style Questionnaire in adolescents. Paper presented at the Joint Conference of the DGPS-Sections Developmental Psychology and Educational Psychology (paEpsy), Leipzig, Germany.  
+
+**Marx, A. K. G.**, Frenzel, A. C., Pekrun, R., Reck, C., & Müller, M. (2019, August). Teachers’ and learners’ emotional experiences in class: Using automated facial action coding. Paper presented at the European Association for Research on Learning and Instruction (EARLI) annual conference, Aachen, Germany.  
+
+Kosovac, K., **Marx, A. K. G.**, Frenzel, A. C., Pekrun, R., Müller, M., & Reck, C. (2019, July). Attachment insecurity and emotional difficulties in adolescents. Paper presented at the International Congress of the European Society for Child and Adolescent Psychiatry (ESCAP), Vienna, Austria.  
+
+Poteat, J., **Marx, A. K. G.**, & Frenzel, A. C. (2019, June). Relationships among teachers' and students' reported and observed enjoyment in university classrooms. Paper presented at the 2nd International Conference on Children's Health, Well-being, Rights, and Education, Pristina, Kosovo.  
+
+**Marx, A. K. G.**, Frenzel, A. C., Reck, C., Klauser, N., Müller, M., & Pekrun, R. (2019, April). Susceptibility to emotional contagion relates to teachers' emotions and burnout. Poster presented at the American Educational Research Association (AERA) annual conference, Toronto, Canada.  
+
+Frenzel, A. C.\*, **Marx, A. K. G.**\*, Pekrun, R., Reck, C., & Müller, M. (2019, April). Teachers’ and Learners’ Emotional Experiences in Class: A Field-based Video Study. Paper presented at the American Educational Research Association (AERA) annual conference, Toronto, Canada.  
+
+Klauser, N., Reck, C., **Marx, A. K. G.**, Müller, M., Frenzel, A. C., & Pekrun, R. (2018, September). Bedeutung der Bindungsunsicherheit für Unterrichtsemotionen und Burnout bei Lehrkräften. Poster auf dem 51. Kongress der Deutschen Gesellschaft für Psychologie (DGPS), Frankfurt, Germany.
+
+**Marx, A. K. G.**, Frenzel, A. C., Klauser, N., Müller, M., Reck, C., & Pekrun, R. (2018, September). Teachers' facial expressions of affect relate to their emotional experiences - Combining automated facial action coding with self-report. Poster auf dem 51. Kongress der Deutschen Gesellschaft für Psychologie (DGPS), Frankfurt, Germany.  
+
+*\*these authors contributed equally to this work*
+
+# ADDITIONAL SKILLS
+
+### Languages 
+> German (native), English (fluent), Spanish (basics)
+
+### Software/Programming  
+> R/RStudio, LaTex, Markdown, SPSS, Microsoft Office/Google Docs, HTML/CSS (basics), iMotions FACET and AFFECTIVA, Noldus Facereader and Observer XT
+
+# REFERENCES
+
+* Prof. Dr. Anne C. Frenzel, LMU Munich, Department of Psychology, frenzel@psy.lmu.de  
+
+* Prof. Dr. Corinna Reck, LMU Munich, Department of Psychology, corinna.reck@psy.lmu.de
+
